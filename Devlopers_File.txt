@@ -1,2 +1,2 @@
 Adding line by developer1
-Adding Line2 by developer2
+Adding line2 by developer1Adding Line2 by developer2
